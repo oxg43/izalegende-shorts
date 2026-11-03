@@ -1,0 +1,41 @@
+# Zasluge za slike
+
+Slike s Wikimedia Commonsa, izrezane i zumirane za video. Prilagođene CC BY-SA slike dostupne su pod istom licencom.
+
+- Wellcome Collection, CC BY 4.0: https://commons.wikimedia.org/wiki/File:Woodcut;_an_alchemist_stoking_a_furnace;_by_C._Maurer._Wellcome_L0004310.jpg
+- Wellcome Collection, CC BY 4.0: https://commons.wikimedia.org/wiki/File:Alchemical_apparatus,_late_15th_century_Wellcome_L0012722.jpg
+- Globetrotter19, CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:Barbara_of_Cilli_and_Sigismund_statue,_2017_Ny%C3%ADrb%C3%A1tor.jpg
+- Klemen1972, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Old_castle_of_Celje_ofter_the_sunset.jpg
+- Klemen1972, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Old_castle_of_Celje_in_the_morning.jpg
+- Diliff, CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:Corvus_corax_(Common_Raven),_Yosemite_NP,_CA,_US_-_Diliff.jpg
+- Colin, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Jubilee_and_Munin,_Ravens,_Tower_of_London_2016-04-30.jpg
+- Cameron Pauley, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:The_Bohemian_Realm_during_the_Hussite_Wars.png
+- Icyblues, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Medvedgrad_Zagreb.jpg
+- Stjepko Krehula, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Medvedgrad_2022-05-12.jpg
+- Falk2, CC BY-SA 3.0 de: https://commons.wikimedia.org/wiki/File:J31_964_Burg_Medvedgrad.jpg
+- Stjepko Krehula, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Medvedgrad_i_Zagreb.jpg
+- Miroslav.vajdic, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Stari_grad_Medvedgrad_-_Zagreb_02.jpg
+- LucianoZ, CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:Medvedgrad_na_Sljemenu_-_panoramio.jpg
+- Fraxinus, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Medvednica_Fog.jpg
+- Hidratična, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Medvedgrad_-_pogled.jpg
+- August Dominus, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Masivni_zidovi_Medvedgrada.JPG
+- Ben Skála (Benfoto), CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:M%C4%9Bln%C3%ADk-z%C3%A1mek2017b.jpg
+- Zdeněk Fiedler, CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_M%C4%9Bln%C3%ADk.jpg
+- Vlach Pavel, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:M%C4%9Bln%C3%ADk,_panorama.jpg
+- Pudelek, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:M%C4%9Bln%C3%ADk_hill,_M%C4%9Bln%C3%ADk,_Czech_Republic.jpg
+- Wolfgang Moroder, CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:Cappella_Piccolomini_partenza_Basilea_Pinturicchio_Siena.jpg
+- Zairon, CC BY 4.0: https://commons.wikimedia.org/wiki/File:Siena_Cattedrale_di_Santa_Maria_Assunta_Interno_Biblioteca_Piccolomini_Affreschi.jpg
+- Ввласенко, CC BY 4.0: https://commons.wikimedia.org/wiki/File:Pinturicchio._Enea_Silvio_Piccolomini_crowned_Poet_Laureate_by_Emperor_Frederick_III._Siena_Cathedral,_Piccolomini_Library.jpg
+- Sailko, CC BY 3.0: https://commons.wikimedia.org/wiki/File:Pinturicchio,_liberia_piccolomini,_1502-07_circa,_Enea_Silvio_riceve_il_cappello_cardinalizio_02.JPG
+- Ввласенко, CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:View_of_Prague_and_St._Vitus_Cathedral_from_Vy%C5%A1ehrad._Czech_Republic.jpg
+- Mattsjc, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_St._Vitus_Cathedral_and_Prague_Castle_grounds.jpg
+- Richard Mortel, CC BY 2.0: https://commons.wikimedia.org/wiki/File:St._Vitus%27s_Cathedral,_Golden_Gate,_14th_century,_Prague_Castle_(7)_(26212350075).jpg
+- Attila Král, CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:Szekesfehervar_Romkert_01.JPG
+- Cristian CACUCI, CC BY-SA 3.0 ro: https://commons.wikimedia.org/wiki/File:Cetatea_Oradea_2.JPG
+- Cristian CACUCI, CC BY-SA 3.0 ro: https://commons.wikimedia.org/wiki/File:Cetatea_Oradea_4.JPG
+- Ovi D. Pop, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Fortress_of_Oradea.jpg
+- Dennis G. Jarvis, CC BY-SA 2.0: https://commons.wikimedia.org/wiki/File:Croatia-00554_-_Stone_Gate_(9314790767).jpg
+- Jorge Láscar from Australia, CC BY 2.0: https://commons.wikimedia.org/wiki/File:Lotr%C5%A1%C4%8Dak_Tower_at_dusk_(13376138374).jpg
+- Jorge Láscar from Australia, CC BY 2.0: https://commons.wikimedia.org/wiki/File:View_from_the_Lotr%C5%A1%C4%8Dak_Tower_(13023289455).jpg
+- Pudelek (Marcin Szala), CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:Znojmo_a_Dyje_(Znaim_und_Thaya)_-_panorama.JPG
+- RomanM82, CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:Znojmo_-_panorama_od_jihu_obr1.jpg
