@@ -41,5 +41,6 @@ Slike s Wikimedia Commonsa i skenovi s archive.org, izrezane i zumirane za video
 - AI isječci (4): vlastite početne slike (Nano Banana Pro) animirane modelom Kling 2.5 (fal.ai); bez ljudi i lica; u videu označeni „AI rekonstrukcija”.
 - Minijature: zamišljeni generički lik (Nano Banana Pro), nije Gubčev portret (portret ne postoji).
 - Karte: Natural Earth (javno dobro), shematski prikaz.
+- Pokret (2.5D paralaksa) na slikama Ivekovića, Valvasora/Susedgrada, Dózse, Markova trga i spomenika: DepthFlow (model Depth-Anything-V2 Small, Apache-2.0); povećanje slika: Real-ESRGAN.
 - Glazba: AI (ElevenLabs Music preko fal.ai). Naracija: AI glas (ElevenLabs).
 - Augustinčićev spomenik (1973.) prikazan je na fotografijama trajno postavljenog javnog djela (sloboda panorame u RH); nije animiran.
